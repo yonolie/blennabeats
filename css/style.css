@@ -1,0 +1,50 @@
+
+body {
+    background-color: rgb(0, 0, 0);
+
+
+}
+
+
+header nav {
+justify-content: space-between;
+align-items: center;
+
+
+}
+header nav ul {
+    list-style: none;
+    /* margin-right: 1em; */
+    display: flex;
+    color : white;
+
+    
+}
+header nav ul li {
+    /* display: inline; */
+    /* margin-left: 2em;*/
+    /* margin-right: 2em; */
+    
+    margin-left: 2em;
+    margin-right: 2em;
+    color : white;
+    
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+figure {
+    margin: 1em;
+    display: flex;
+    align-items: center;
+  }
+
+h1 {
+color: orange;
+margin: 0 auto;
+text-align: center;
+
+}
